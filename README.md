@@ -24,7 +24,4 @@ This project performs end-to-end retail sales data analysis using Python and SQL
 
 ## How to Run
 
-1. Clone the repository
-2. Install dependencies:
-
 1. Clone the reposito2. Install dependencies:
